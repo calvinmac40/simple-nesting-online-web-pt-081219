@@ -81,7 +81,7 @@ def adding_matz
      }
 
  programmer_hash[:yukihiro_matsumoto][:known_for] = "Ruby"
- programmer_hash[]
+ programmer_hash[:languages][]
 end
 
 def changing_alan
