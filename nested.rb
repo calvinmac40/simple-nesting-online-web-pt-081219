@@ -80,7 +80,7 @@ def adding_matz
         }
      }
 
- yukihiro_matsumoto[:known_for] = "Ruby"
+
 end
 
 def changing_alan
