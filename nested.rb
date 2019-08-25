@@ -35,7 +35,7 @@ def alan_kay_is_known_for
           :languages => ["C"]
         }
      }
-programmer_hash[:alan_kay][:known_for] = "Object Orientation"     
+programmer_hash[:alan_kay][:known_for] = #"Object Orientation"     
 end
 
 def dennis_ritchies_language
@@ -79,7 +79,7 @@ def adding_matz
           :languages => ["C"]
         }
      }
-programmer_hash[:yukihiro_matsumoto] = {:known_for, :languages:["LISP","C"]}
+programmer_hash[:yukihiro_matsumoto] = {:known_for => :languages:["LISP","C"]}
 
 end
 
